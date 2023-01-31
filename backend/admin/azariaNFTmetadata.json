@@ -1,0 +1,25 @@
+{
+  "name": "AZARIA10ACB4",
+  "description": "10 Academy successful completion certificate.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmW22vrt2pGZi48aJUjXhwPkQf58LJraCLr63Cys2cHopm",
+  "image_integrity": "sha256-/tih/7ew0eziEZIVD4qoTWb0YrElAuRG3b40SnEstyk=",
+  "properties": {
+    "simple_property": "Azaria's completion certificate",
+    "rich_property": {
+      "name": "Azaria10ACB4",
+      "value": "001",
+      "display_value": "001",
+      "class": "emphasis",
+      "css": {
+        "color": "#ffffff",
+        "font-weight": "bold",
+        "text-decoration": "underline"
+      }
+    },
+    "array_property": {
+      "name": "Artwork",
+      "value": [1, 2, 3, 4],
+      "class": "emphasis"
+    }
+  }
+}
