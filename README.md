@@ -1,4 +1,4 @@
-# 10 Academy NFT 
+# 10 Academy NFT cert
 
 ## Table of Contents
 
@@ -9,23 +9,18 @@
 
 ## About <a name = "about"></a>
 
-Write about 1-2 paragraphs describing the purpose of your project.
+ In areas where certificates are issued and verification is necessary - we are solving the challenge of ensuring that certificates are available to all trainees in a secure way, and (if possible) that certificate holders can benefit from smart contract actions now and in the future.  At present, certificates are distributed as simple PDF files, without the ability to verify their authenticity nor can 10 Academy undertake smart actions with the trainees/their contracts.
 
 ## Getting Started <a name = "getting_started"></a>
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
 
-
-### Prerequisites
-
-What things you need to install the software and how to install them.
-
-```
-Give examples
-```
+### Preview
+![Frontend preview](screenshot.png "Preview is not functional atm and is just a prototype preview.") 
 
 ### Installing
 
+#### Backend
 A step by step series of examples that tell you how to get a development env running in a linux environment.
 Things might be slightly different if running things on windows.
 
@@ -51,8 +46,9 @@ Install requirements
 ```
 pip install -r requirements.txt
 ```
+#### Frontend
 
-End with an example of getting some data out of the system or using it for a little demo.
+Go into frontend directory and read readme.md
 
 ## Usage <a name = "usage"></a>
 
